@@ -19,7 +19,7 @@ replace (
 
 require (
 	github.com/blang/semver v3.5.1+incompatible
-	github.com/cilium/cilium v1.13.2
+	github.com/cilium/cilium v1.13.4
 	github.com/clarketm/json v1.17.1
 	github.com/docker/docker v23.0.6+incompatible
 	github.com/fatih/color v1.15.0
