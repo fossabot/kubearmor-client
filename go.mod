@@ -24,7 +24,7 @@ require (
 	github.com/docker/docker v23.0.6+incompatible
 	github.com/fatih/color v1.15.0
 	github.com/json-iterator/go v1.1.12
-	github.com/kubearmor/KubeArmor/protobuf v0.0.0-20230515155803-35434b6407a5
+	github.com/kubearmor/KubeArmor/protobuf v0.0.0-20230912132253-3bf31234d092
 	github.com/mholt/archiver/v3 v3.5.1
 	github.com/moby/term v0.0.0-20221205130635-1aeaba878587
 	github.com/olekukonko/tablewriter v0.0.5
