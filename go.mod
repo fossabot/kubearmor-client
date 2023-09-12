@@ -35,7 +35,7 @@ require (
 	golang.org/x/exp v0.0.0-20230510235704-dd950f8aeaea
 	golang.org/x/mod v0.10.0
 	golang.org/x/sync v0.2.0
-	golang.org/x/sys v0.9.0
+	golang.org/x/sys v0.10.0
 	google.golang.org/genproto v0.0.0-20230410155749-daa745c078e1 // indirect
 	google.golang.org/grpc v1.55.0
 	google.golang.org/protobuf v1.30.0
@@ -53,7 +53,7 @@ require (
 	github.com/google/go-cmp v0.5.9
 	github.com/google/go-github v17.0.0+incompatible
 	github.com/kubearmor/KVMService/src/types v0.0.0-20220714130113-b0eba8c9ff34
-	github.com/kubearmor/KubeArmor/KubeArmor v0.0.0-20230704182508-0dd8f8bb9507
+	github.com/kubearmor/KubeArmor/KubeArmor v0.0.0-20230912132253-3bf31234d092
 	github.com/kubearmor/KubeArmor/deployments v0.0.0-20230626102117-7ce0284b7dc1
 	github.com/kubearmor/KubeArmor/pkg/KubeArmorController v0.0.0-20230626060245-4f5b8ac4f298
 	github.com/kyverno/kyverno v1.9.2
